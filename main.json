@@ -1,0 +1,8 @@
+{
+    "words":  {
+        "programming": ["php", "js", "go", "scala", "fortan", "r", "mysql", "python"],
+        "movies": ["Prestige", "Inception", "parasite", "Interstellar", "Whiplash", "Memento", "Coco", "Up"],
+        "people": ["Albert Einstein", "Hitchcock", "Alexander", "Cleopatra", "Mahatma Ghandi"],
+        "countreis": ["Syria", "Palestine", "Yemen", "Egypt", "Bahrain", "Qatar"]
+    }
+ }
